@@ -1,0 +1,21 @@
+.*gradle/
+.idea/
+gradle/
+*build/
+
+local.properties
+*.iml
+*.ap_
+
+*.class
+bin/
+gen/
+
+*.dex
+proguard/
+*.log
+.navigation/
+.DS_Store
+/captures
+
+### Tao Android template
